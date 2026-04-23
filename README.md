@@ -18,7 +18,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 2 - 조건문 / 반복문
--[Java_2week](https://github.com/Gugaeun/Java_2026/tree/main/Java_2week)
+- [Java_2week](https://github.com/Gugaeun/Java_2026/tree/main/Java_2week)
 - if / switch
 - for / while
 - 간단한 문제 풀이
@@ -29,7 +29,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 3 - 배열
--[Java_3week](https://github.com/Gugaeun/Java_2026/tree/main/Java_3week)
+- [Java_3week](https://github.com/Gugaeun/Java_2026/tree/main/Java_3week)
 - 1차원 배열
 - 배열을 활용한 문제 해결  
 
@@ -39,7 +39,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 4 - 객체지향 기초
--[Java_4week](https://github.com/Gugaeun/Java_2026/tree/main/Java_4week)
+- [Java_4week](https://github.com/Gugaeun/Java_2026/tree/main/Java_4week)
 - 클래스 / 객체
 - 생성자
 - 메서드  
@@ -50,7 +50,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 5 - 객체지향 심화
--[Java_5week](https://github.com/Gugaeun/Java_2026/tree/main/Java_5week)
+- [Java_5week](https://github.com/Gugaeun/Java_2026/tree/main/Java_5week)
 - 캡슐화
 - 접근제어자
 - 클래스 설계  
@@ -61,7 +61,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 6 - 자료구조
--[Java_6week](https://github.com/Gugaeun/Java_2026/tree/main/Java_6week)
+- [Java_6week](https://github.com/Gugaeun/Java_2026/tree/main/Java_6week)
 - 리스트(List)
 - 스택(Stack)
 - 큐(Queue)  
@@ -72,7 +72,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ---
 
 ### 🗓 Week 7 - 알고리즘 기초
--[Java_7week](https://github.com/Gugaeun/Java_2026/tree/main/Java_7week)
+- [Java_7week](https://github.com/Gugaeun/Java_2026/tree/main/Java_7week)
 - 정렬 / 탐색
 - 기본 알고리즘 문제 풀이  
 

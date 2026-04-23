@@ -11,7 +11,8 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 ### 🗓 Week 1 - Java 기초(이론)
 - 변수, 자료형
 - 출력 및 입력
-- 기본 연산자  
+- 기본 연산자
+  
 💬 Java의 기본 구조와 문법을 처음 학습한 주차
 
 ---
@@ -20,8 +21,10 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 -[Java_2week](https://github.com/Gugaeun/Java_2026/tree/main/Java_2week)
 - if / switch
 - for / while
-- 간단한 문제 풀이  
+- 간단한 문제 풀이
+  
 💬 프로그램의 흐름을 제어하는 방법을 이해
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_2week/src/Mypack/TypeConversion.java)
 
 ---
 
@@ -31,6 +34,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 배열을 활용한 문제 해결  
 
 💬 데이터를 효율적으로 저장하고 처리하는 방법 학습
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_3week/src/Practice/SuccessOrFail.java)
 
 ---
 
@@ -41,6 +45,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 메서드  
 
 💬 객체지향 프로그래밍의 기본 개념 이해
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_4week/src/Practice4/SevenPratice.java)
 
 ---
 
@@ -51,6 +56,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 클래스 설계  
 
 💬 코드 구조를 설계하는 방법에 대해 학습
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_5week/src/Practice5/ScoreAverage.java)
 
 ---
 
@@ -61,7 +67,8 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 큐(Queue)  
 
 💬 다양한 자료구조의 특징과 활용 방법 이해
-
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_6week/src/pratice6/StaticMember.java)
+  
 ---
 
 ### 🗓 Week 7 - 알고리즘 기초
@@ -70,6 +77,7 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 기본 알고리즘 문제 풀이  
 
 💬 문제 해결을 위한 알고리즘적 사고 시작
+- [예제 코드](https://github.com/Gugaeun/Java_2026/blob/main/Java_7week/src/Practice7/CalendarEx.java)
 
 ---
 

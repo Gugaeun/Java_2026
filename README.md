@@ -81,6 +81,11 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 
 ---
 
+### 🗓 Week9 -TomCat을 이용하여 Servlet 사용
+-[Java_9week](https://github.com/Gugaeun/Java_2026/tree/main/pro05)
+- 이클립스 내에서 tomcat 설치 후 서버 연동
+- Servlet-api.jar 사용하여 자바 코드 작성
+
 ## ⭐ Key Takeaways
 
 - Java 기본 문법과 객체지향 개념 이해

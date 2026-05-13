@@ -86,6 +86,8 @@ Java 수업에서 진행한 내용을 주차별로 정리한 저장소입니다.
 - 이클립스 내에서 tomcat 설치 후 서버 연동
 - Servlet-api.jar 사용하여 자바 코드 작성
 
+---
+
 ## ⭐ Key Takeaways
 
 - Java 기본 문법과 객체지향 개념 이해
